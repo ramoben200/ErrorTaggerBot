@@ -37,7 +37,7 @@ async def start(event):
   await event.reply("**ᴇʀʀᴏʀ ᴛᴀɢɢᴇʀ**, Grup veya kanaldaki neredeyse tüm üyelerden bahsedebilirim ★\nDaha fazla bilgi için **/bilgi**'i tıklayın.",
                     buttons=(
                       [
-                         Button.url('➕ BENİ GRUBA EKLE ➕ ', 'http://t.me/ErrorTagger_Bot?startgroup=a')
+                         Button.url('➕ BENİ GRUBA EKLE ➕ ', 'http://t.me/Ballasresmi?startgroup=a')
                       ],
                       [
                          Button.url('📣 Grubumuz', 'https://t.me/supppeerrt'),
