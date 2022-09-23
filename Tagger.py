@@ -41,7 +41,25 @@ async def start(event):
                       ],
                       [
                          Button.url('📣 Grubumuz', 'https://t.me/supppeerrt'),
-                         Button.url('👨🏼‍💻Developer', 'https://t.me/SakirBey2'),
+                         Button.url('👨🏼‍💻Developer', 'https://t.me/SakirBey2'),hrhdnsnsjjsjsjsjsjjsjsjsjsjsjsjjsjdjdjdjjsjsjsjsjsjsjsjsjjsjdjd
+Dndddjdjjd
+Jdjdjdjdj
+Dhdjjdjd
+
+Djdjdjjd
+
+
+Djdjjdjd
+
+
+Djjdjdjdjd
+
+
+
+Djjdjdjdjd
+Jdjdjdjdj
+Jdjdjdjdj
+
                          Button.url('👮Sahibim', 'https://t.me/ozuduqaqaw'),
                       ]
                     ),
